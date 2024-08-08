@@ -11,6 +11,7 @@ date=$(echo $zip | cut -f3 -d '-')                                              
   case "${device,,}" in 
 
 	"fog"         ) devicename="Redmi 10C" && oem="Xiaomi"       ;;  #
+	"olives"         ) devicename="Redmi 8/8A/8A Dual" && oem="Xiaomi"       ;;  #
 
 	esac
 
