@@ -1,0 +1,24 @@
+{
+  "response": [
+    {
+        "maintainer": "GADGETNiK (WolfAURman Team)",
+        "oem": "Xiaomi",
+        "device": "Redmi 8/8A/8A Dual",
+        "filename": "crDroidAndroid-11.0-20240809-olives-v7.44-security.zip",
+        "download": "https://github.com/GADGETNiK/crdroid_ota_update_new/releases/download/crDroidAndroid-11.0-20240809-olives-v7.44-security/crDroidAndroid-11.0-20240809-olives-v7.44-security.zip",
+        "timestamp": 1723193930,
+        "md5": "5507ed2bd0fe711614d4237e2d5e7308",
+        "size": 931197515,
+        "version": "7.44",
+        "buildtype": "Monthly",
+        "forum": "",
+        "gapps": "",
+        "firmware": "",
+        "modem": "",
+        "bootloader": "",
+        "recovery": "",
+        "paypal": "",
+        "telegram": "https://t.me/GADGETNiK"
+    }
+  ]
+}
